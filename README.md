@@ -1,4 +1,4 @@
-### Hi, Im David!👋
+# 👋 Hi, I'm David!
 
 🤵 BackEnd Developer sharing about my journey and learnings in tech <Br/>
 🏫 Studying [Electrical and Electronics Enginering] at Landmark University, Nigeria <Br/>
